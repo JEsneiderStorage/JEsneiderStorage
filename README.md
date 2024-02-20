@@ -4,7 +4,7 @@ I hope you are so well. If you are here is because you want to know a little abo
 
 ### About me 😀
 
-I'm from Colombia and I'm 18 years old. I'm someone who likes to learn new things every day, I considerer knowledge as the pillar of all things, it helps me to advance on a personal and professional level. I like a lot this world of software development because it's here where it's possible to create new digital realities; which are intangible but produce great productiv impacts; it's here where you can customize a new world. I started to be interested in software development since I was child, when I played videogames or when I ised digital platforms, coming to the conclusion that I can also contribute to this amazing world.
+I'm from Colombia and I'm 18 years old. I'm someone who likes to learn new things every day, I considerer knowledge as the pillar of all things, it helps me to advance on a personal and professional level. I like a lot this world of software development because it's here where it's possible to create new digital realities; which are intangible but produce great productive impacts; it's here where you can customize a new world. I started to be interested in software development since I was child, when I played videogames or when I used digital platforms, coming to the conclusion that I can also contribute to this amazing world.
 
 ### About my studies 📚
 
