@@ -24,10 +24,11 @@ I'm from Colombia and I'm 18 years old. I'm someone who likes to learn new thing
     + Friendly
     + Creativity
 - **Hard skills 🧠:**
-    + Understand texts and audios in English
-    + Requirements analysis
+    + Knowledge in Java 
+    + Knowledge in HTML:5 
+    + Knowledge in SQL, and SGBD like MySQL.
     + Solution design
     + Database design
-    + Knowledge in SQL, and SGBD like MySQL.
-    + Knowledge in Java
-    + Knowledge in HTML:5
+    + Requirements analysis
+    + Understand texts and audios in English
+   
